@@ -1,0 +1,175 @@
+#customers {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #customers td, #customers th {
+    border: 5px solid rgba(221, 221, 221, 0.445);
+    padding: 15px;
+    text-align: center;
+    vertical-align: middle;
+    height: 80px;
+  width: 160px;
+  }
+  
+  #customers tr:nth-child(even){background-color: #f2f2f2;}
+  #customers tr:nth-child(odd){background-color: #f2f2f2;}
+  
+  #customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #0076d7a8;
+    color: rgb(32, 30, 30);
+  }
+
+  .gobtn{
+	background:#0076d7a8;
+	border:none;
+	color:rgb(0, 0, 0);
+	cursor: pointer;
+	padding:10px 25px;
+	text-align:center;
+	text-decoration:none;
+	display:inline-block;
+	font-size:14px;
+	margin:4px 2px;
+	border-radius:8px;
+}
+
+.gobtn4{
+	background:#d70000a8;
+	border:none;
+	color:rgb(0, 0, 0);
+	cursor: pointer;
+	padding:10px 25px;
+	text-align:center;
+	text-decoration:none;
+	display:inline-block;
+	font-size:14px;
+	margin:4px 2px;
+	border-radius:8px;
+}
+
+  .dash{
+	background:#f8b83967;
+	border:none;
+	color:white;
+	cursor: pointer;
+	padding:10px 25px;
+	text-align:center;
+	text-decoration:none;
+	display:inline-block;
+	font-size:14px;
+	margin:4px 2px;
+	border-radius:8px;
+}
+.dasho{
+	background:#322f2f25;
+	border:none;
+	color:rgb(0, 0, 0);
+	cursor: pointer;
+	padding:10px 22px;
+	text-align:center;
+	text-decoration:none;
+	display:inline-block;
+	font-size:14px;
+	margin:4px 2px;
+	border-radius:8px;
+}
+
+.view{
+	background:#302b2b;
+	border:none;
+	color:#f8b739;
+	cursor: pointer;
+	padding:10px 25px;
+	text-align:center;
+	text-decoration:none;
+	display:inline-block;
+	font-size:14px;
+	margin:4px 2px;
+	border-radius:8px;
+}
+
+.lbtn{
+	background:#ba3627;
+	border:none;
+	color:white;
+	cursor: pointer;
+	padding:10px 25px;
+	text-align:center;
+	text-decoration:none;
+	display:inline-block;
+	font-size:14px;
+	margin:4px 2px;
+	border-radius:8px;
+}
+
+
+        .myButton
+        {
+            background-color: #77b55a;
+            border: 1px solid #4b8f29;
+            display: inline-block;
+            cursor: pointer;
+            color: #f0ebf0;
+            font-family: arial;
+            font-size: 13px;
+            font-weight: bold;
+			margin: 5px;
+            padding: 7px 35px;
+            text-decoration: none;
+        }
+   
+
+		.ll{
+			background:#04d9ffa9;
+			border:none;
+			color:white;
+			cursor: pointer;
+			padding:10px 25px;
+			text-align:center;
+			text-decoration:none;
+			display:inline-block;
+			font-size:14px;
+			margin:4px 2px;
+			border-radius:8px;
+		}
+
+		.sel{
+			background:#02a2ed9d;
+			border:none;
+			color:#f8b739;
+			cursor: pointer;
+			padding:10px 25px;
+			text-align:center;
+			text-decoration:none;
+			display:inline-block;
+			font-size:14px;
+			margin:4px 2px;
+			border-radius:8px;
+		}
+
+
+		
+
+.btna {
+  background-color: #4745457c;
+  border: none;
+  color: white;
+  padding: 9px 16px;
+  margin-top: 3px;
+  font-family: arial;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  
+}
+.btna {border-radius: 10px;}
+/* Darker background on mouse-over */
+.btna:hover {
+  background-color: RoyalBlue;
+}
+
